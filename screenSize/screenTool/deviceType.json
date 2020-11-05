@@ -1,0 +1,383 @@
+[
+    {
+       "iphoneName":"iPhone 2G",
+       "screenWidth_pt":320,
+       "screenHeight_pt":480,
+       "multiple":2,
+       "screenInch":3.5,
+       "notch":false,
+       "phoneType":"iPhone1,1",
+       "screenDensity":326
+   },
+    {
+       "iphoneName":"iPhone 3G",
+       "screenWidth_pt":320,
+       "screenHeight_pt":480,
+       "multiple":2,
+       "screenInch":3.5,
+       "notch":false,
+       "phoneType":"iPhone1,2",
+       "screenDensity":326
+   },
+    {
+       "iphoneName":"iPhone 3GS",
+       "screenWidth_pt":320,
+       "screenHeight_pt":480,
+       "multiple":2,
+       "screenInch":3.5,
+       "notch":false,
+       "phoneType":"iPhone2,1",
+       "screenDensity":326
+   },
+    {
+       "iphoneName":"iPhone 4",
+       "screenWidth_pt":320,
+       "screenHeight_pt":480,
+       "multiple":2,
+       "screenInch":3.5,
+       "notch":false,
+       "phoneType":"iPhone3,1",
+       "screenDensity":326
+   },
+    {
+       "iphoneName":"iPhone 4",
+       "screenWidth_pt":320,
+       "screenHeight_pt":480,
+       "multiple":2,
+       "screenInch":3.5,
+       "notch":false,
+       "phoneType":"iPhone3,2",
+       "screenDensity":326
+   },
+    {
+       "iphoneName":"Verizon iPhone 4",
+       "screenWidth_pt":320,
+       "screenHeight_pt":480,
+       "multiple":2,
+       "screenInch":3.5,
+       "notch":false,
+       "phoneType":"iPhone3,3",
+       "screenDensity":326
+   },
+    {
+       "iphoneName":"iPhone 4S",
+       "screenWidth_pt":320,
+       "screenHeight_pt":480,
+       "multiple":2,
+       "screenInch":3.5,
+       "notch":false,
+       "phoneType":"iPhone4,1",
+       "screenDensity":326
+   },
+    {
+       "iphoneName":"iPhone 5 GSM",
+       "screenWidth_pt":320,
+       "screenHeight_pt":568,
+       "multiple":2,
+       "screenInch":4  ,
+       "notch":false,
+       "phoneType":"iPhone5,1",
+       "screenDensity":326
+   },
+    {
+       "iphoneName":"iPhone 5 GSM CDMA",
+       "screenWidth_pt":320,
+       "screenHeight_pt":568,
+       "multiple":2,
+       "screenInch":4  ,
+       "notch":false,
+       "phoneType":"iPhone5,2",
+       "screenDensity":326
+   },
+    {
+       "iphoneName":"iPhone 5c GSM",
+       "screenWidth_pt":320,
+       "screenHeight_pt":568,
+       "multiple":2,
+       "screenInch":4  ,
+       "notch":false,
+       "phoneType":"iPhone5,3",
+       "screenDensity":326
+   },
+    {
+       "iphoneName":"iPhone 5c GSM CDMA",
+       "screenWidth_pt":320,
+       "screenHeight_pt":568,
+       "multiple":2,
+       "screenInch":4  ,
+       "notch":false,
+       "phoneType":"iPhone5,4",
+       "screenDensity":326
+   },
+    {
+       "iphoneName":"iPhone 5s GSM",
+       "screenWidth_pt":320,
+       "screenHeight_pt":568,
+       "multiple":2,
+       "screenInch":4  ,
+       "notch":false,
+       "phoneType":"iPhone6,1",
+       "screenDensity":326
+   },
+    {
+       "iphoneName":"iPhone 5s GSM CDMA",
+       "screenWidth_pt":320,
+       "screenHeight_pt":568,
+       "multiple":2,
+       "screenInch":4  ,
+       "notch":false,
+       "phoneType":"iPhone6,2",
+       "screenDensity":326
+   },
+    {
+       "iphoneName":"iPhone 6 Plus",
+       "screenWidth_pt":414,
+       "screenHeight_pt":736,
+       "multiple":3,
+       "screenInch":5.5,
+       "notch":false,
+       "phoneType":"iPhone7,1",
+       "screenDensity":401
+   },
+    {
+       "iphoneName":"iPhone 6",
+       "screenWidth_pt":375,
+       "screenHeight_pt":667,
+       "multiple":2,
+       "screenInch":4.7,
+       "notch":false,
+       "phoneType":"iPhone7,2",
+       "screenDensity":326
+   },
+    {
+       "iphoneName":"iPhone 6s",
+       "screenWidth_pt":375,
+       "screenHeight_pt":667,
+       "multiple":2,
+       "screenInch":4.7,
+       "notch":false,
+       "phoneType":"iPhone8,1",
+       "screenDensity":326
+   },
+    {
+       "iphoneName":"iPhone 6s Plus",
+       "screenWidth_pt":414,
+       "screenHeight_pt":736,
+       "multiple":3,
+       "screenInch":5.5,
+       "notch":false,
+       "phoneType":"iPhone8,2",
+       "screenDensity":401
+   },
+    {
+       "iphoneName":"iPhone SE",
+       "screenWidth_pt":320,
+       "screenHeight_pt":568,
+       "multiple":2,
+       "screenInch":4  ,
+       "notch":false,
+       "phoneType":"iPhone8,4",
+       "screenDensity":326
+   },
+    {
+       "iphoneName":"iPhone 7",
+       "screenWidth_pt":375,
+       "screenHeight_pt":667,
+       "multiple":2,
+       "screenInch":4.7,
+       "notch":false,
+       "phoneType":"iPhone9,1",
+       "screenDensity":326
+   },
+    {
+       "iphoneName":"iPhone 7 Plus",
+       "screenWidth_pt":414,
+       "screenHeight_pt":736,
+       "multiple":3,
+       "screenInch":5.5,
+       "notch":false,
+       "phoneType":"iPhone9,2",
+       "screenDensity":401
+   },
+    {
+       "iphoneName":"iPhone 8",
+       "screenWidth_pt":375,
+       "screenHeight_pt":667,
+       "multiple":2,
+       "screenInch":4.7,
+       "notch":false,
+       "phoneType":"iPhone10,1",
+       "screenDensity":326
+   },
+    {
+       "iphoneName":"iPhone 8",
+       "screenWidth_pt":375,
+       "screenHeight_pt":667,
+       "multiple":2,
+       "screenInch":4.7,
+       "notch":false,
+       "phoneType":"iPhone10,4",
+       "screenDensity":326
+   },
+    {
+       "iphoneName":"iPhone 8 Plus",
+       "screenWidth_pt":414,
+       "screenHeight_pt":736,
+       "multiple":3,
+       "screenInch":5.5,
+       "notch":false,
+       "phoneType":"iPhone10,2",
+       "screenDensity":401
+   },
+    {
+       "iphoneName":"iPhone 8 Plus",
+       "screenWidth_pt":414,
+       "screenHeight_pt":736,
+       "multiple":3,
+       "screenInch":5.5,
+       "notch":false,
+       "phoneType":"iPhone10,5",
+       "screenDensity":401
+   },
+    {
+       "iphoneName":"iPhone X",
+       "screenWidth_pt":375,
+       "screenHeight_pt":812,
+       "multiple":3,
+       "screenInch":5.8,
+       "notch":true,
+       "phoneType":"iPhone10,3",
+       "screenDensity":458
+   },
+    {
+       "iphoneName":"iPhone X",
+       "screenWidth_pt":375,
+       "screenHeight_pt":812,
+       "multiple":3,
+       "screenInch":5.8,
+       "notch":true,
+       "phoneType":"iPhone10,6",
+       "screenDensity":458
+   },
+    {
+       "iphoneName":"iPhone XR",
+       "screenWidth_pt":414,
+       "screenHeight_pt":896,
+       "multiple":2,
+       "screenInch":6.1,
+       "notch":true,
+       "phoneType":"iPhone11,8",
+       "screenDensity":326
+   },
+    {
+       "iphoneName":"iPhone XS",
+       "screenWidth_pt":375,
+       "screenHeight_pt":812,
+       "multiple":3,
+       "screenInch":5.8,
+       "notch":true,
+       "phoneType":"iPhone11,2",
+       "screenDensity":458
+   },
+    {
+       "iphoneName":"iPhone XS Max",
+       "screenWidth_pt":414,
+       "screenHeight_pt":896,
+       "multiple":3,
+       "screenInch":6.5,
+       "notch":true,
+       "phoneType":"iPhone11,4",
+       "screenDensity":458
+   },
+    {
+       "iphoneName":"iPhone XS Max",
+       "screenWidth_pt":414,
+       "screenHeight_pt":896,
+       "multiple":3,
+       "screenInch":6.5,
+       "notch":true,
+       "phoneType":"iPhone11,6",
+       "screenDensity":458
+   },
+    {
+       "iphoneName":"iPhone 11",
+       "screenWidth_pt":414,
+       "screenHeight_pt":896,
+       "multiple":2,
+       "screenInch":6.1,
+       "notch":true,
+       "phoneType":"iPhone12,1",
+       "screenDensity":326
+   },
+    {
+       "iphoneName":"iPhone 11 Pro",
+       "screenWidth_pt":375,
+       "screenHeight_pt":812,
+       "multiple":3,
+       "screenInch":5.8,
+       "notch":true,
+       "phoneType":"iPhone12,3",
+       "screenDensity":458
+   },
+    {
+       "iphoneName":"iPhone 11 Pro Max",
+       "screenWidth_pt":414,
+       "screenHeight_pt":896,
+       "multiple":3,
+       "screenInch":6.5,
+       "notch":true,
+       "phoneType":"iPhone12,5",
+       "screenDensity":458
+   },
+    {
+       "iphoneName":"iPhone SE2",
+       "screenWidth_pt":375,
+       "screenHeight_pt":667,
+       "multiple":2,
+       "screenInch":4.7,
+       "notch":false,
+       "phoneType":"iPhone12,8",
+       "screenDensity":326
+   },
+    {
+       "iphoneName":"iPhone 12 mini",
+       "screenWidth_pt":375,
+       "screenHeight_pt":812,
+       "multiple":3,
+       "screenInch":5.4,
+       "notch":true,
+       "phoneType":"iPhone13,1",
+       "screenDensity":476
+   },
+    {
+       "iphoneName":"iPhone 12",
+       "screenWidth_pt":390,
+       "screenHeight_pt":844,
+       "multiple":3,
+       "screenInch":6.1,
+       "notch":true,
+       "phoneType":"iPhone13,2",
+       "screenDensity":460
+   },
+    {
+       "iphoneName":"iPhone 12 Pro",
+       "screenWidth_pt":390,
+       "screenHeight_pt":844,
+       "multiple":3,
+       "screenInch":6.1,
+       "notch":true,
+       "phoneType":"iPhone13,3",
+       "screenDensity":460
+   },
+    {
+       "iphoneName":"iPhone 12 Pro Max",
+       "screenWidth_pt":428,
+       "screenHeight_pt":926,
+       "multiple":3,
+       "screenInch":6.7,
+       "notch":true,
+       "phoneType":"iPhone13,4",
+       "screenDensity":458
+   }
+]
+ 
