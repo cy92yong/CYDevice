@@ -109,7 +109,7 @@
 		55D6958A25524CF90064649C /* screenSize */ = {
 			isa = PBXGroup;
 			children = (
-				55D695C82552999E0064649C /* screenTool */,
+				55D695C82552999E0064649C /* CYDevice */,
 				55D6958B25524CF90064649C /* AppDelegate.h */,
 				55D6958C25524CF90064649C /* AppDelegate.m */,
 				55D6958E25524CF90064649C /* SceneDelegate.h */,
@@ -143,14 +143,14 @@
 			path = screenSizeUITests;
 			sourceTree = "<group>";
 		};
-		55D695C82552999E0064649C /* screenTool */ = {
+		55D695C82552999E0064649C /* CYDevice */ = {
 			isa = PBXGroup;
 			children = (
 				55D695C3255255720064649C /* deviceType.json */,
 				55D695C925529CDE0064649C /* CYDevice.h */,
 				55D695CA25529CDE0064649C /* CYDevice.m */,
 			);
-			path = screenTool;
+			path = CYDevice;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
