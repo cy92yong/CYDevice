@@ -16,7 +16,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
-    self.label.text = [NSString stringWithFormat:@"%@ 流海屏：%d",[CYDevice shareInstance].iphoneName,[CYDevice shareInstance].notch];
+    self.label.text = [NSString stringWithFormat:@"%@ 流海屏：%d",[CYDevice shareInstance].deviceName,[CYDevice shareInstance].notch];
 }
 
 

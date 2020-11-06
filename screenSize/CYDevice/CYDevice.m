@@ -44,7 +44,7 @@ static CYDevice *device = nil;
     // 获取本设备的设备类型字符串
     struct utsname systemInfo;
     uname(&systemInfo);
-    self.phoneTypeStr = [NSString stringWithCString: systemInfo.machine encoding:NSASCIIStringEncoding];
+    self.deviceTypeStr = [NSString stringWithCString: systemInfo.machine encoding:NSASCIIStringEncoding];
     for (NSDictionary *iphoneDic in arr)
     {
         NSInteger w = [iphoneDic[@"screenWidth_pt"] integerValue];
@@ -55,7 +55,7 @@ static CYDevice *device = nil;
             {
                 firstDic = iphoneDic;
             }
-            if ([iphoneDic[@"phoneType"] isEqualToString:self.phoneTypeStr])
+            if ([iphoneDic[@"phoneType"] isEqualToString:self.deviceTypeStr])
             {
                 deviceDic = iphoneDic;
                 break;
@@ -76,13 +76,13 @@ static CYDevice *device = nil;
     }
     if (initDic)
     {
-        self.iphoneName = initDic[@"iphoneName"];
+        self.deviceName = initDic[@"deviceName"];
         self.screenWidth_pt = [initDic[@"screenWidth_pt"] integerValue];
         self.screenHeight_pt = [initDic[@"screenHeight_pt"] integerValue];
         self.multiple = [initDic[@"multiple"] floatValue];
         self.screenInch = [initDic[@"screenInch"] floatValue];
         self.notch = [initDic[@"notch"] boolValue];
-        self.phoneType = initDic[@"phoneType"];
+        self.deviceType = initDic[@"deviceType"];
     }
 }
 @end
