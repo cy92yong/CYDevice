@@ -55,7 +55,7 @@ static CYDevice *device = nil;
             {
                 firstDic = iphoneDic;
             }
-            if ([iphoneDic[@"phoneType"] isEqualToString:self.deviceTypeStr])
+            if ([iphoneDic[@"deviceType"] isEqualToString:self.deviceTypeStr])
             {
                 deviceDic = iphoneDic;
                 break;
